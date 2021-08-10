@@ -1,5 +1,5 @@
-# Fifa 19 Machine Learning Project  
-Fifa 19 Machine Learning Project.  
+# Fifa 19 Data Science Playground  
+Fifa 19 Data Science Playground.  
 
 
 ## Dependencies
